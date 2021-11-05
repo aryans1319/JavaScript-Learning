@@ -24,4 +24,9 @@ user is : ${fullName}
 state : ${state}
 and his email is :${email}
 his password: ${password}
+
+
+
+
+
 `)
